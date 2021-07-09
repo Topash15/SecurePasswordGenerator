@@ -4,17 +4,9 @@ This program creates a random password based on the parameters set by the user. 
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/56897774/125141818-10907500-e0e4-11eb-9b96-e8fef16fbc2b.png)
 
 
-## License
+## Link
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
-
-## Acknowledgments
-
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
-
+https://topash15.github.io/SecurePasswordGenerator/
